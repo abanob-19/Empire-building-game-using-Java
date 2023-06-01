@@ -1,0 +1,2 @@
+• Created a 1 player strategy game using Java and Object-Oriented Programming principles.
+• Designed the game's user interface using Java Swing and AWT, and implemented the Model-View-Controller (MVC) architecture. Developed a game with a 3D Isometric display that allowed the player to build an empire from scratch, gaining player satisfaction up 20% and increasing levels of user engagement by 40%.
